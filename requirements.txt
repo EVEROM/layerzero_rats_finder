@@ -3,3 +3,4 @@ openpyxl~=3.1.2
 aiohttp~=3.9.5
 loguru~=0.6.0
 lxml~=5.2.2
+0x87Aa2dAfD028D2c681FA28148aCe9a42Ee57dC8C
